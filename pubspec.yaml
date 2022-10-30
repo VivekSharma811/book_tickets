@@ -48,6 +48,7 @@ dev_dependencies:
   fluentui_icons: ^1.0.0
   get:
   gap: ^2.0.0
+  barcode_widget: ^2.0.02
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
